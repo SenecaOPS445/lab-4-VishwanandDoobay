@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Strings 1
 
-str1 = 'Hello World!!'
+str1 = 'Hello  World!!'
 str2 = 'Seneca College'
 
 num1 = 1500
